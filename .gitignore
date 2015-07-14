@@ -4,7 +4,7 @@
 /build/
 /build.xml
 # Non-interesting stuff
-/.gitignore~
+*~
 
 
 # Windows image file caches
